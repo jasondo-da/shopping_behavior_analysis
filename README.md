@@ -10,18 +10,30 @@ Analysis Outline:
 Before looking at the dataset, there are several interesting questions I wanted to learn more about. Below are the insights I am interesting in exploring more into:
 
   1. Identifying our customers
+
     1.1 Who are our main customer demographic? Where are they from?
+     
     1.2 Which items are highly rated by our customers? Size? Color?
+    
     1.3 What is the market sentiment of our products?
+    
     1.4 What are their prefered method of transaction?
     
+    
   2. Business performance
+     
     2.1 Which items do we sell the most?(By profit and by volume)
+    
     2.2 Does subscription status increase sales?
+    
     2.3 Is our business market share growing?
+    
   3. Identifying trends within the data
+   
     3.1 Which season does the company perform best?
+     
     3.2 What is our customer retention?
+    
     3.3 Are there areas within the business for improvement?
 
 Results: In progress
