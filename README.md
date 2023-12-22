@@ -2,11 +2,11 @@
 
 Objective: 
 
-The project objective is to identify the customer demographic, review business performance, and find hidden trends within the data. This project will be used to further 
+The project objective is to identify the customer demographic, review business performance, and find hidden trends within the data.
 
 Project Introduction: 
 
-This dataset is sourced from Kaggle, and this project will be used to refine my data analytics skills further and gain more experience in the data science field.  The Customer Behavior and Shopping Habits Dataset contains a variety of intricate insights into customer preferences and mannerisms when shopping from this untitled online source. Throughout the project, I will discover and answer insights within the data that I find interesting and useful to optimize business performance and growth. Below is the link to the original dataset.
+This is a Kaggle-sourced dataset used to further refine my data analytics skills and gain more experience in the data science field.  The Customer Behavior and Shopping Habits Dataset contains a variety of intricate insights into customer preferences and mannerisms when shopping from this untitled online source. Throughout the project, I will discover and answer insights within the data that I find interesting and useful to optimize business performance and growth. Below is the link to the original dataset.
 
 [Original Kaggle Dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/)
 
