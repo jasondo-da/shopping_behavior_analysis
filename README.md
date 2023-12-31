@@ -81,3 +81,9 @@ Code: [Shopping Behavior Dataset](https://github.com/jasondo-da/shopping_behavio
 | Previous Purchases | Provides information on the number or frequency of prior purchases made by the customer |
 | Payment Method | Specifies the mode of payment employed by the customer |
 | Frequency of Purchases | Indicates how often the customer engages in purchasing activities | 
+
+## License
+
+CC0: Public Domain
+
+
