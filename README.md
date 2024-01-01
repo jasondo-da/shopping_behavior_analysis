@@ -1,5 +1,11 @@
 # Shopping Behavior Analysis
 
+## Table of Contents
+- [Customer Shopping Behavior Analysis Jupyter Notebook](#customer-shopping-behavior-analysis-jupyter-notebook)
+- [Shopping Behavior Dataset](#shopping-behavior-dataset)
+
+<a name="headers"/>
+
 Objective: 
 
 The project objective is to identify the customer demographic, review business performance, and find hidden trends within the data.
@@ -14,40 +20,29 @@ Analysis Outline:
 
 Before looking at the dataset, there are several interesting questions I wanted to learn more about. Below are the insights I am interesting in exploring more into:
 
-  1. Identifying our customers
-
-    1.1 Who are our main customer demographic? Where are they from?
-     
-    1.2 Which items are highly rated by our customers? Size? Color?
-    
-    1.3 What is the market sentiment of our products?
-    
-    1.4 What are their prefered method of transaction?
-    
-    
-  2. Business performance
-     
-    2.1 Which items do we sell the most?(By profit and by volume)
-    
-    2.2 Does subscription status increase sales?
-    
-    2.3 Is our business market share growing?
-    
-  3. Identifying trends within the data
+1. Identifying our customers
+ 
+  1.1 Who are our main customer demographic? Where are they from?
    
-    3.1 Which season does the company perform best?
-     
-    3.2 What is our customer retention?
-    
-    3.3 Are there areas within the business for improvement?
+  1.2 Which products do customers love the most? Size? Color?
+   
+  1.3 What is the customer sentiment about the business?
+   
+  1.4 What are the customer's prefered method of transaction?
+   
+2. Business performance and trends
+   
+  2.1 What are the best selling products?
+  
+  2.2 What is our customer retention?
+  
+  2.3 Does subscription status increase sales?
+  
+  2.4 Does having discounts increase sales?
+  
+  2.5 What time of the year is the busiest?
 
 Results: In progress
-
-## Table of Contents
-- [Customer Shopping Behavior Analysis Jupyter Notebook](#customer-shopping-behavior-analysis-jupyter-notebook)
-- [Shopping Behavior Dataset](#shopping-behavior-dataset)
-
-<a name="headers"/>
 
 
 ## Customer Shopping Behavior Analysis Jupyter Notebook
