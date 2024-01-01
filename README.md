@@ -21,26 +21,26 @@ Analysis Outline:
 Before looking at the dataset, there are several interesting questions I wanted to learn more about. Below are the insights I am interesting in exploring more into:
 
 1. Identifying our customers
- 
-  1.1 Who are our main customer demographic? Where are they from?
+
+- 1.1 Who are our main customer demographic? Where are they from?
    
-  1.2 Which products do customers love the most? Size? Color?
+- 1.2 Which products do customers love the most? Size? Color?
    
-  1.3 What is the customer sentiment about the business?
+- 1.3 What is the customer sentiment about the business?
    
-  1.4 What are the customer's prefered method of transaction?
+- 1.4 What are the customer's prefered method of transaction?
    
 2. Business performance and trends
    
-  2.1 What are the best selling products?
+- 2.1 What are the best selling products?
   
-  2.2 What is our customer retention?
+- 2.2 What is our customer retention?
   
-  2.3 Does subscription status increase sales?
+- 2.3 Does subscription status increase sales?
   
-  2.4 Does having discounts increase sales?
+- 2.4 Does having discounts increase sales?
   
-  2.5 What time of the year is the busiest?
+- 2.5 What time of the year is the busiest?
 
 Results: In progress
 
