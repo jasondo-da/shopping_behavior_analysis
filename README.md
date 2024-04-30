@@ -2,8 +2,7 @@
 
 ![image](https://github.com/jasondo-da/shopping_behavior_analysis/assets/138195365/2b6691bd-bebe-4c97-a1f0-ebcdbcfb3b4a)
 
-
-## Table of Contents <a name="headers">
+## Table of Contents
 
 - [Project Introduction](#project-introduction)
     - [Customer Shopping Behavior Analysis Jupyter Notebook](#customer-shopping-behavior-analysis-jupyter-notebook)
@@ -112,8 +111,4 @@ This apparel business primarily caters to men’s fashion with their customer de
 
 - Discounts and promos should be reserved for special events only since customer retention is already so high most customers would purchase their desired apparel products regardless of a discount code. Having a discount code at this point in the business cycle is only limiting the total amount of revenue to be gained. 
 
-    - One recommendation is to save all the unsold or overstocked products for summer since that is the slowest season. 
-
-## License
-
-CC0: Public Domain
+    - One recommendation is to save all the unsold or overstocked products for summer since that is the slowest season.
