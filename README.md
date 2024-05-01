@@ -30,7 +30,7 @@ Link: [Original Kaggle Dataset](https://www.kaggle.com/datasets/zeesolver/consum
 
 Link: [Shopping Behavior Dataset](https://github.com/jasondo-da/shopping_behavior_analysis/blob/main/shopping_behavior_updated.csv)
 
-| Shopping Behavior Dataset Tables | Table Description |
+| Columns | Description |
 | :------------- | :------------ |
 | Customer ID | A unique identifier for each individual customer |
 | Age | The age of the customer, providing demographic information for segmentation and targeted marketing strategies |
