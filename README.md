@@ -1,5 +1,7 @@
 # Customer Shopping Behavior Analysis
 
+# In Process
+
 ![image](https://github.com/jasondo-da/shopping_behavior_analysis/assets/138195365/2b6691bd-bebe-4c97-a1f0-ebcdbcfb3b4a)
 
 ## Table of Contents
