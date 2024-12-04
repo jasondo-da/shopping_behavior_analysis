@@ -1,4 +1,4 @@
-# Customer Shopping Behavior Analysis (In Process)
+# Customer Shopping Behavior Analysis
 
 ![image](https://github.com/jasondo-da/shopping_behavior_analysis/assets/138195365/2b6691bd-bebe-4c97-a1f0-ebcdbcfb3b4a)
 
@@ -18,7 +18,7 @@
 This is a Kaggle-sourced dataset used to refine my data analytics skills further and gain more data science experience. The marketing team from a clothing apparel business is asking for recommendations on current customer behavior, improving the business processes, and growing the customer base. In this analysis, I will analyze the shopping behavior dataset to answer the marketing team's inquiries and make recommendations for areas of improvement.
 
 ### Customer Shopping Behavior Analysis Jupyter Notebook
-Full customer shopping behavior analysis in Jupyter Notebook.
+Full Customer Shopping Behavior Analysis in Jupyter Notebook.
 
 Link: [Customer Shopping Behavior Analysis](https://github.com/jasondo-da/shopping_behavior_analysis/blob/main/shopping_behavior_analysis.ipynb)
 
@@ -57,33 +57,34 @@ The purpose of this project is to be part of an ongoing process to refine and de
 
 ## Analysis Outline
 
-Before looking at the dataset, there were several interesting questions I wanted to learn more about. Below are the insights I am interested in exploring more:
 
-1. Identifying our customers
+Identifying Primary Customer Demographic
 
-- 1.1 Who is our main customer demographic? Where are they from?
-   
-- 1.2 Which products do customers love the most? Size? Color?
-   
-- 1.3 What is the customer sentiment about the business?
-   
-- 1.4 What are the customer's preferred methods of transaction?
-   
-2. Business performance and trends
-   
-- 2.1 What are the best-selling products?
-  
-- 2.2 What is our customer retention?
-  
-- 2.3 Does subscription status increase sales?
-  
-- 2.4 Does having discounts increase sales?
-  
-- 2.5 What time of the year is the busiest?
+    1.1 Who are the primary customers? What are their demographic characteristics?
+    
+    1.2 Which states contain the largest population of customers?
+    
+    1.3 Which states contain the largest population for the target demographic for each gender?
+        
+Customer Shopping Behavior
+
+    2.1 Which products are the best sellers? In which size? Color?
+    
+    2.2 Do top-selling products differ by male and female customers?
+    
+    2.3 When is the busiest time of the year?
+    
+    2.4 What is the customer sentiment about the business? Does it change between seasons or genders?
+    
+    2.5 What are the customer's prefered method of transaction?
+    
+    2.6 Does subscription status affect customer purchases?
+    
+    2.7 Does having discounts increase purchase totals?
 
 ## Executive Summary
 
-### Key Takeaways
+### Key Findings
 
 - The current primary customer demographic is male customers from all age ranges which consists of about 68% of total customers
 
