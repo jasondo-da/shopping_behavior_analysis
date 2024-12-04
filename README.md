@@ -1,6 +1,4 @@
-# Customer Shopping Behavior Analysis
-
-# In Process
+# Customer Shopping Behavior Analysis (In Process)
 
 ![image](https://github.com/jasondo-da/shopping_behavior_analysis/assets/138195365/2b6691bd-bebe-4c97-a1f0-ebcdbcfb3b4a)
 
@@ -12,12 +10,12 @@
 - [Objective](#objective)
 - [Analysis Outline](#analysis-outline)
 - [Executive Summary](#executive-summary)
-    - [Conclusion](#conclusion)
     - [Key Findings](#key-findings)
+    - [Reccomendations](#reccomendations)
 
 ## Project Introduction
 
-This is a Kaggle-sourced dataset used to refine my data analytics skills further and gain more data science experience. The “Customer Behavior and Shopping Habits Dataset” contains a variety of intricate insights into customer preferences and mannerisms when shopping from an untitled online retailer.
+This is a Kaggle-sourced dataset used to refine my data analytics skills further and gain more data science experience. The marketing team from a clothing apparel business is asking for recommendations on current customer behavior, improving the business processes, and growing the customer base. In this analysis, I will analyze the shopping behavior dataset to answer the marketing team's inquiries and make recommendations for areas of improvement.
 
 ### Customer Shopping Behavior Analysis Jupyter Notebook
 Full customer shopping behavior analysis in Jupyter Notebook.
@@ -55,7 +53,7 @@ Link: [Shopping Behavior Dataset](https://github.com/jasondo-da/shopping_behavio
 
 ## Objective
 
-The purpose of this project is to be part of an ongoing process to refine and develop my data analysis skills. In this customer analysis, I will discover new insights within the data I find interesting and useful with the intention of finding new methods to optimize business performance and growth. Key areas of focus include finding our primary customer demographic, their demand preferences for our products, and new opportunities to grow the business.
+The purpose of this project is to be part of an ongoing process to refine and develop my data analysis skills. In this customer analysis, I will discover new insights in the data that will explain customer shopping behavior, find new methods to improve business decision-making and grow the customer base. 
 
 ## Analysis Outline
 
@@ -85,32 +83,33 @@ Before looking at the dataset, there were several interesting questions I wanted
 
 ## Executive Summary
 
-### Conclusion
+### Key Takeaways
 
-This apparel business primarily caters to men’s fashion with their customer demographic being mostly middle-aged men being about 44 years old. This demographic typically has more disposable income to spend on consumer-discretionary products which is the ideal customer for this apparel brand. This customer base also generally has a positive opinion of this retailer's products shown by their higher retention rates and independent choice of opting for a premium shipping method to receive their packages quicker. This business is currently in the growth phase of its business cycle and should continue to find new ways to cut costs and grow company revenue. Potential new growth avenues include working with other large online payment services to make online shopping more easily accessible to new customers and improve the quality of their basic product lines to ensure stable annual cash flow. Cost-cutting ideas could include cutting subscription services and limiting promos and discounts to large annual events rather than a consistent offering.
+- The current primary customer demographic is male customers from all age ranges which consists of about 68% of total customers
 
-### Key Findings
+- Female customers consist of about 32% of total customers and the largest cohort of female customers are from 45-50 years old
 
-- This is a fashion apparel business that primarily caters to men and male fashion trends. 
+- The largest number of customers are from the West Coast and the Midwest consisting of Montana, Illinois, California, and Idaho 
 
-- The customer demographic is older adults that age ranges from 31-57 years old with the average customer age being about 44 years old. 
+- The primary revenue stream stems from clothes and accessories products
 
-- Existing customers generally hold a positive view of the products they purchase since many of them consistently pay for a premium shipping option to get their orders faster. 
+- Popular products among both genders are jewelry, shirts, and dresses in medium and large sizes with earth tone and cool tone color pallets
 
-- Most customers are returning customers showing high customer retention, half of the existing customers have already made over 25+ purchases and counting. 
+- The fall season is the busiest season due to consumers cyclical holiday shopping season
 
-- Customers typically pay with a payment service or with their credit/debit card. If this business can widen the payment services, they accept and make the payment process easier for first-time customers then they can expand their apparel products to new customers in new markets.
+- Customer sentiment is generally positive from customer purchases across all demographics
 
-- This is a smaller business that is still in the growth phase of the business cycle and should primarily focus on increasing revenue.
 
-- To make revenue annually more consistent the business needs to improve more on their basic items like shirts, jeans, shorts, etc. since those are the most bought products that customers will return yearly for.
+### Reccomendations
 
-    - These products should primarily be sold in neutral or earth-tone colors since those are the most versatile and timeless colors that will always be sought after by customers. 
+- The marketing team should focus on increasing the customer count from the current top states since this business is still in the growing phase of the business cycle. Specifically, California and New York should be the primary markets to target since those are the largest markets compared to the other top states.
 
--  There needs to be a conversation about keeping the subscription service since it does not generate any meaningful additional revenue. 
+- The marketing team should provide two different marketing campaigns based on gender preferences in certain states to maximize ad effectiveness
 
-    - Either cut the subscription service or allocate more resources to it to increase customer satisfaction in hopes of increasing revenue.
+- Ads should primarily be displaying clothing and accessory products with earth and cool tone aesthetics since those are the most popular products
 
-- Discounts and promos should be reserved for special events only since customer retention is already so high most customers would purchase their desired apparel products regardless of a discount code. Having a discount code at this point in the business cycle is only limiting the total amount of revenue to be gained. 
+- The marketing budget should be heavily allocated to the fall since that is the start of the holiday shopping season. In addition, this is also the opportune time to advertise products since the most popular color palettes are earth and cool-tone colors, which fit the season aesthetically.
 
-    - One recommendation is to save all the unsold or overstocked products for summer since that is the slowest season.
+- Customer surveys should be handed out more often to more accurately gauge customer sentiment and improve customer experience with the business and its products, specifically to male customers who shopped in the springtime.
+
+- Currently, accepted payment services are Venmo and PayPal, if payment services can expand to other popular payment services like Cash App, Apple Pay, Google Pay, and Amazon Pay, then new customers are more likely to shop at this business due to increased customer convenience
