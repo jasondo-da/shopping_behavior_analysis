@@ -12,6 +12,7 @@
 - [Executive Summary](#executive-summary)
     - [Key Findings](#key-findings)
     - [Reccomendations](#reccomendations)
+- [Generated Plots](#generated-plots)
 
 ## Project Introduction
 
@@ -114,3 +115,15 @@ Customer Shopping Behavior
 - Customer surveys should be handed out more often to more accurately gauge customer sentiment and improve customer experience with the business and its products, specifically to male customers who shopped in the springtime.
 
 - Currently, accepted payment services are Venmo and PayPal, if payment services can expand to other popular payment services like Cash App, Apple Pay, Google Pay, and Amazon Pay, then new customers are more likely to shop at this business due to increased customer convenience
+
+
+## Generated Plots
+
+![image](https://github.com/user-attachments/assets/9274710e-fd22-40f2-9b21-6b48bbd99a87)
+
+![image](https://github.com/user-attachments/assets/7c9c1cd1-41be-423a-89ff-dd8040fb1c48)
+
+![image](https://github.com/user-attachments/assets/77c345bc-f15b-4aa9-ab3f-8c15d7920c28)
+
+![image](https://github.com/user-attachments/assets/a496ccfe-9b79-4a6e-8593-a2010aa8f68e)
+
