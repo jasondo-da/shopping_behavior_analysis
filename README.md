@@ -7,7 +7,6 @@
 - [Project Introduction](#project-introduction)
     - [Customer Shopping Behavior Analysis Jupyter Notebook](#customer-shopping-behavior-analysis-jupyter-notebook)
     - [Shopping Behavior Dataset](#shopping-behavior-dataset)
-- [Objective](#objective)
 - [Analysis Outline](#analysis-outline)
 - [Executive Summary](#executive-summary)
     - [Key Findings](#key-findings)
@@ -52,9 +51,6 @@ Link: [Shopping Behavior Dataset](https://github.com/jasondo-da/shopping_behavio
 | Payment Method | Specifies the mode of payment employed by the customer |
 | Frequency of Purchases | Indicates how often the customer engages in purchasing activities | 
 
-## Objective
-
-The purpose of this project is to be part of an ongoing process to refine and develop my data analysis skills. In this customer analysis, I will discover new insights in the data that will explain customer shopping behavior, find new methods to improve business decision-making and grow the customer base. 
 
 ## Analysis Outline
 
