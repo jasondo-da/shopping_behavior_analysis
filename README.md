@@ -17,12 +17,12 @@
 
 This is a Kaggle-sourced dataset used to refine my data analytics skills further and gain more data science experience. The marketing team from a clothing apparel business is asking for recommendations on current customer behavior, improving the business processes, and growing the customer base. In this analysis, I will analyze the shopping behavior dataset to answer the marketing team's inquiries and make recommendations for areas of improvement.
 
-### Customer Shopping Behavior Analysis Jupyter Notebook
+## Customer Shopping Behavior Analysis Jupyter Notebook
 Full Customer Shopping Behavior Analysis in Jupyter Notebook.
 
 Link: [Customer Shopping Behavior Analysis](https://github.com/jasondo-da/shopping_behavior_analysis/blob/main/shopping_behavior_analysis.ipynb)
 
-### Shopping Behavior Dataset
+## Shopping Behavior Dataset
 
 The Consumer Behavior and Shopping Habits Dataset provides a detailed overview of consumer preferences and purchasing behaviors. It includes demographic information, purchase history, product preferences, and preferred shopping channels. This dataset is essential for businesses aiming to tailor their strategies to meet customer needs and enhance their shopping experience, ultimately driving sales and loyalty.
 
